@@ -1,0 +1,102 @@
+﻿  main.cpp
+C:\Users\mahee\source\repos\pubg-external\global.h(72,2): warning C4091: 'typedef ': ignored on left of 'OperationData' when no variable is declared
+C:\Users\mahee\source\repos\pubg-external\global.h(81,2): warning C4091: 'typedef ': ignored on left of 'CommunicationData' when no variable is declared
+C:\Users\mahee\source\repos\pubg-external\global.h(86,2): warning C4091: 'typedef ': ignored on left of 'MODULE' when no variable is declared
+C:\Users\mahee\source\repos\pubg-external\sharedmemory.h(19,61): warning C4311: 'reinterpret_cast': pointer truncation from 'void *' to 'BOOL'
+C:\Users\mahee\source\repos\pubg-external\sharedmemory.h(19,61): warning C4302: 'reinterpret_cast': truncation from 'void *' to 'BOOL'
+C:\Users\mahee\source\repos\pubg-external\process.h(38,44): warning C4244: 'return': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\process.h(99,27): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\sdk.h(86,21): warning C4018: '<': signed/unsigned mismatch
+  The contents of <charconv> are available only with C++17 or later.
+C:\Users\mahee\source\repos\pubg-external\globals.hpp(60,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(20,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(41,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(42,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(45,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(45,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(45,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(45,157): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(46,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(46,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(46,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(46,157): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(47,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(47,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(47,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(47,165): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(48,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(48,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(48,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(48,165): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(49,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(49,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(49,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(49,165): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(50,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(50,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(50,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(50,165): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(51,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(51,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(51,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(51,173): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(52,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(52,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(52,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(52,173): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(55,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(55,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(55,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(55,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(56,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(56,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(56,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(56,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(57,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(57,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(57,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(57,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(58,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(58,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(58,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(58,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(59,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(59,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(59,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(59,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(60,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(60,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(60,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(60,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(61,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(61,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(61,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(61,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(62,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(62,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(62,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(62,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(75,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(75,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(75,139): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(76,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(76,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(76,139): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(77,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(77,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(77,139): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(78,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(78,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(78,139): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(79,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(79,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(94,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(95,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(96,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(97,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(123,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(123,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\Visuals.hpp(123,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahee\source\repos\pubg-external\memory.h(91): warning C4715: 'Memory::ProtectVirtualMemory': not all control paths return a value
+C:\Users\mahee\source\repos\pubg-external\Overlay.hpp(289): warning C4715: 'setup_directx': not all control paths return a value
+  pubg-external.vcxproj -> C:\Users\mahee\source\repos\pubg-driver\x64\Debug\pbex.exe
